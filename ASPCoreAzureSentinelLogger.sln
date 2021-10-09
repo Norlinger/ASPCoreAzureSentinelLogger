@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPCoreAzureSentinelLogger", "ASPCoreAzureSentinelLogger\ASPCoreAzureSentinelLogger.csproj", "{A65A754D-4DE3-4A1F-B8CB-BAEA6DE4DABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{DD9E56FC-1338-4D09-906E-49B4ECFBBA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65A754D-4DE3-4A1F-B8CB-BAEA6DE4DABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65A754D-4DE3-4A1F-B8CB-BAEA6DE4DABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65A754D-4DE3-4A1F-B8CB-BAEA6DE4DABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65A754D-4DE3-4A1F-B8CB-BAEA6DE4DABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9E56FC-1338-4D09-906E-49B4ECFBBA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9E56FC-1338-4D09-906E-49B4ECFBBA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9E56FC-1338-4D09-906E-49B4ECFBBA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9E56FC-1338-4D09-906E-49B4ECFBBA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E7C10E7-B4F5-4484-8285-1A2E66CFBA72}
+	EndGlobalSection
+EndGlobal
