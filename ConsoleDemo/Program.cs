@@ -21,5 +21,7 @@ using var loggerFactory = LoggerFactory.Create(builder =>
 });
 ILogger logger = loggerFactory.CreateLogger<Program>();
 
-logger.LogCritical("Fehler im System");
-logger.LogError("So ein Ärger");
+logger.LogCritical("Error in the System Critical");
+logger.LogError("Error in the System Error");
+logger.LogInformation("Error in the System Information");
+logger.LogWarning("Error in the System Warning");
